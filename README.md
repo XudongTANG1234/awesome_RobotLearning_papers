@@ -1,7 +1,7 @@
 # awesome_RobotLearning_papers
 Papers about Robot Learning / Imitation Learning / Reinforcement Learning / Vision Language Model / World Action Model
 
-ALOHA
+ALOHA <br>
 Diffusion Policy
 
 OpenVLA
