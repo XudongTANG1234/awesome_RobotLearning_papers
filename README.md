@@ -1,6 +1,11 @@
 # awesome_RobotLearning_papers
 Papers about Robot Learning / Imitation Learning / Reinforcement Learning / Vision Language Model / World Action Model
 
+Robomimic <br>
+[Website](https://robomimic.github.io/) \
+[Paper](https://arxiv.org/abs/2108.03298)
+
+
 ALOHA <br>
 Diffusion Policy
 
